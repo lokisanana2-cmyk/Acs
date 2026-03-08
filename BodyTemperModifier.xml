@@ -1,0 +1,9 @@
+<Defs>
+    <ModifierDef>
+        <Name>BodyTemperSpeedBoost</Name>
+        <DisplayName>Body Temper Speed Boost</DisplayName>
+        <Properties>
+            <li Name="BodyTemperSpeed" AddP="2000"/>
+        </Properties>
+    </ModifierDef>
+</Defs>
